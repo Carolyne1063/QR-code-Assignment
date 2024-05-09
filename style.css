@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Outfit", sans-serif;
+  }
+img{
+    width:218px;
+    height: 230px;
+    border-radius: 15px;
+   
+    
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    max-width: 220px;
+    background: hsl(0, 0%, 100%);
+    padding: 13px; 
+    
+  }
+h1{
+    font-size: 16px;
+    font-weight: 700px;
+    padding-top: 20px;
+    text-align: center;
+    
+    
+}
+p{
+    font-weight: 400px;
+    font-size: 15px;
+    color:lightgray;
+    padding-top: 20px;
+    text-align: center;
+}
+  
+  
